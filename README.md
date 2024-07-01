@@ -22,7 +22,7 @@ The dashboard includes various filters and interactive elements that enable user
 <br>
 Switch between different departments (Human Resources, Research & Development, Sales).<br>
 Drill down into specific data segments for detailed analysis.<br>
-Compare attrition metrics across various categories for a holistic view.<br>
+Compare attrition metrics across various categories for a holistic view.
 <br>
 
 <b>Technical Details</b>
