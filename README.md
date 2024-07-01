@@ -13,8 +13,7 @@ This project demonstrates the use of Power BI to create an interactive dashboard
 <b>Attrition by Salary Slab:</b> Shows the attrition distribution across different salary ranges, allowing analysis of how compensation affects employee retention.<br>
 <b>Attrition by Job Role:</b> Analyzes attrition rates across different job roles within the organization, identifying roles with higher turnover.<br>
 <b>Attrition by Years at Company:</b> Tracks how the length of service impacts attrition rates, useful for understanding employee lifecycle and retention periods.<br>
-<b>Job Satisfaction Analysis:</b> Provides insights into how job satisfaction correlates with attrition, segmented by job role, and highlights areas needing attention to improve employee satisfaction.
-<br>
+<b>Job Satisfaction Analysis:</b> Provides insights into how job satisfaction correlates with attrition, segmented by job role, and highlights areas needing attention to improve employee satisfaction.<br>
 
 <b>Dashboard Overview</b>
 <br>
