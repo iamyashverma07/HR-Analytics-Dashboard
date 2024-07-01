@@ -14,7 +14,7 @@ This project demonstrates the use of Power BI to create an interactive dashboard
 <b>Attrition by Job Role:</b> Analyzes attrition rates across different job roles within the organization, identifying roles with higher turnover.<br>
 <b>Attrition by Years at Company:</b> Tracks how the length of service impacts attrition rates, useful for understanding employee lifecycle and retention periods.<br>
 <b>Job Satisfaction Analysis:</b> Provides insights into how job satisfaction correlates with attrition, segmented by job role, and highlights areas needing attention to improve employee satisfaction.
-<br><br>
+<br>
 
 <b>Dashboard Overview</b>
 <br>
@@ -23,13 +23,13 @@ The dashboard includes various filters and interactive elements that enable user
 Switch between different departments (Human Resources, Research & Development, Sales).<br>
 Drill down into specific data segments for detailed analysis.<br>
 Compare attrition metrics across various categories for a holistic view.<br>
-<br><br>
+<br>
 
 <b>Technical Details</b>
 <b>Data Visualization:</b> Created using Power BI, leveraging its rich set of visual tools to present data intuitively and interactively.<br>
 <b>Data Sources:</b> Sample data was used to simulate HR metrics for demonstrating the dashboard's capabilities.<br>
 <b>Power BI Features:</b> Utilized Power BI's advanced features, including interactive visuals, filters, and slicers, to enhance user experience and data exploration.
-<br><br>
+<br>
 
 <b>License</b><br>
 This project is licensed under the MIT License.
